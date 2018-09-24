@@ -9,16 +9,5 @@ Time to download the data will vary and will depend on the interval for which we
 
 I have different ways of downloading the data depending on the need so I will explain all the ways and one can use whatever is needed as per the situation.
 
-1.) The first and most important step is to import all the libraries.
-
-import pandas as pd
-import datetime
-import elasticsearch
-import elasticsearch.helpers
-from elasticsearch import Elasticsearch
-from elasticsearch_dsl import Search
-from pandasticsearch import DataFrame
-from pandasticsearch import Select
-from elasticsearch import Elasticsearch, helpers
 
 
